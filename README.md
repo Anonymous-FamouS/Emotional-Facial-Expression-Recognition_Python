@@ -27,6 +27,10 @@ The training loss plot
 
 <img width="882" alt="image" src="https://github.com/user-attachments/assets/da3aa3f8-b463-4a4a-9f60-a1381f5974c5" />
 
+
+- Comparative models:
+  ![image](https://github.com/user-attachments/assets/2398f202-edb6-40ed-baf9-073d6b2ccce6)
+
 ### Libraries
 
 Putting pictures in Pandas dataframes, along with theirData Frame and:
