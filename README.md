@@ -1,4 +1,4 @@
-Emotional Facial Expressiom Recognition Model
+Emotional Facial Expression Recognition Model
 
 ### The [KDEF](https://kdef.se/) dataset
 
