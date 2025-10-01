@@ -47,7 +47,7 @@ Data preparation:
 - Numpy: Craeting a Numpy array of the images with their associated label matched from the tables in the CSV file, ready-to-use for the machine learning model
 - TensorFlow
 
-model devopment:
+Model devopment:
 - Keras
 - scikit-learn
 
